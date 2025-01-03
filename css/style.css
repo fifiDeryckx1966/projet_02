@@ -24,6 +24,7 @@ body {
     width: 100%;
     max-width: 1440px;
     min-width: 320px;
+    margin:0 auto;
     box-sizing: border-box;
 }
 
@@ -466,7 +467,7 @@ footer {
 }
 
 /* Small devices (phones, less than 768px) */
-@media (max-width: 767.98px) {
+@media (max-width: 768px) {
 
     .main-container {
         padding: 0;
